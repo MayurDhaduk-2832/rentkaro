@@ -296,9 +296,9 @@ class SplashScreenState extends State<SplashScreen>
                         padding: EdgeInsets.only(top: 10.0.rh(context)),
                         child: Column(
                           children: [
-                            Text("rentKaroLogoText".translate(context))
+                            Text("Rent karo".translate(context))
                                 .size(context.font.xxLarge)
-                                .color(context.color.secondaryColor)
+                                .color(context.color.blackColor)
                                 .centerAlign()
                                 .bold(weight: FontWeight.w600),
                             // Text("\"${"buyAndSellAnything".translate(context)}\"")

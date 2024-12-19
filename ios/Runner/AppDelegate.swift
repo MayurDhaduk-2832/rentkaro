@@ -15,6 +15,7 @@ import FirebaseMessaging
   ) -> Bool {
     GMSServices.provideAPIKey("PLACE_YOUR_GOOGLE_MAP_IOS_API_KEY_HERE")
 
+    FirebaseApp.configure()
     GeneratedPluginRegistrant.register(with: self)
       
       SwiftAwesomeNotificationsPlugin.setPluginRegistrantCallback { registry in

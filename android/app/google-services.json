@@ -1,26 +1,51 @@
 {
   "project_info": {
-    "project_number": "742074555235",
-    "project_id": "eclassify-4c892",
-    "storage_bucket": "eclassify-4c892.firebasestorage.app"
+    "project_number": "990724846385",
+    "project_id": "rentkaro-ec4de",
+    "storage_bucket": "rentkaro-ec4de.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:742074555235:android:d0e4d7c79c833e1e84d156",
+        "mobilesdk_app_id": "1:990724846385:android:05c2e5286044c57f8f7610",
         "android_client_info": {
           "package_name": "com.eclassify.wrteam"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "990724846385-708fbjh91cto2f7b6julh0ssdtfjqlqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclassify.wrteam",
+            "certificate_hash": "23f72deb5d9ec3eda7505302b6abcf674bf69eab"
+          }
+        },
+        {
+          "client_id": "990724846385-nod1g6a2rug55h8m9cnpqb8pmngfch86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBp3NhElqc8JWuVXbPhuBXNuuLVljc6N0A"
+          "current_key": "AIzaSyC--QNDhSYUy9NS970-TDrJ_uPmTipMxWA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990724846385-nod1g6a2rug55h8m9cnpqb8pmngfch86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990724846385-r4sdfs7p74q1rdc22mv38s0t7o7brufv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eclassify.wrteam"
+              }
+            }
+          ]
         }
       }
     }

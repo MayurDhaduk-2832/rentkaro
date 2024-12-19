@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990724846385-r4sdfs7p74q1rdc22mv38s0t7o7brufv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990724846385-r4sdfs7p74q1rdc22mv38s0t7o7brufv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>990724846385-708fbjh91cto2f7b6julh0ssdtfjqlqs.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnuAjZgDHSuL1AI00Tcvv5UuYtekKkNpk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990724846385</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eclassify.wrteam</string>
+	<key>PROJECT_ID</key>
+	<string>rentkaro-ec4de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rentkaro-ec4de.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990724846385:ios:92af8d4f74f866598f7610</string>
+</dict>
+</plist>

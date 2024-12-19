@@ -50,21 +50,23 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyApCJcVfUTKAdfiNB2vZ399YgJEFy_d-vk',
-    appId: '1:6343732161:android:be9cbc67ef8a19792b5d40',
-    messagingSenderId: '6343732161',
-    projectId: 'eclassify-wrteam',
-    storageBucket: 'eclassify-wrteam.appspot.com',
+    apiKey: 'AIzaSyC--QNDhSYUy9NS970-TDrJ_uPmTipMxWA',
+    appId: '1:990724846385:android:05c2e5286044c57f8f7610',
+    messagingSenderId: '990724846385',
+    projectId: 'rentkaro-ec4de',
+    storageBucket: 'rentkaro-ec4de.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBgKBEjpogvomINJ6uutsUQrHntz4g4PUQ',
-    appId: '1:6343732161:ios:5cc58a2dcfbbb66b2b5d40',
-    messagingSenderId: '6343732161',
-    projectId: 'eclassify-wrteam',
-    storageBucket: 'eclassify-wrteam.appspot.com',
-    androidClientId: '6343732161-dhn3si4lpio5bhr32iu9u6j6d8ja0npr.apps.googleusercontent.com',
-    iosClientId: '6343732161-tutdvlsj06eis0n3eli5c4985fi0lkht.apps.googleusercontent.com',
+    apiKey: 'AIzaSyDnuAjZgDHSuL1AI00Tcvv5UuYtekKkNpk',
+    appId: '1:990724846385:ios:92af8d4f74f866598f7610',
+    messagingSenderId: '990724846385',
+    projectId: 'rentkaro-ec4de',
+    storageBucket: 'rentkaro-ec4de.firebasestorage.app',
+    androidClientId:
+        '990724846385-708fbjh91cto2f7b6julh0ssdtfjqlqs.apps.googleusercontent.com',
+    iosClientId:
+        '990724846385-r4sdfs7p74q1rdc22mv38s0t7o7brufv.apps.googleusercontent.com',
     iosBundleId: 'com.eclassify.wrteam',
   );
 }
